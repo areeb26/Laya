@@ -1,0 +1,24 @@
+{
+  "leads": {
+    "rows": 500,
+    "rows_with_any_agreed_question": 500,
+    "per_field_agreement": {
+      "intent": 0.908,
+      "fit": 0.62,
+      "has_budget": 0.992,
+      "decision_maker": 0.964,
+      "next_action": 0.848
+    }
+  },
+  "viral": {
+    "rows": 500,
+    "rows_with_any_agreed_question": 500,
+    "per_field_agreement": {
+      "hook_type": 0.792,
+      "virality": 0.786,
+      "concrete_value": 0.95,
+      "has_cta": 0.96,
+      "is_accurate_ai_claim": 0.972
+    }
+  }
+}
