@@ -1,6 +1,6 @@
 """Keep rows where the Sonnet generator's label and Opus's blind relabel agree on every question.
 
-    python domains/merge_agreed.py   # writes domains/data/{leads,viral}_{train,eval}.jsonl + agreement report
+    python domains/merge_agreed.py   # writes domains/data_agreed/{leads,viral}_{train,eval}.jsonl + agreement report
 """
 import glob
 import json
@@ -22,7 +22,7 @@ def load(p):
 
 def main(seed=0, eval_frac=0.1):
     rng = random.Random(seed)
-    out_dir = os.path.join(ROOT, "domains", "data")
+    out_dir = os.path.join(ROOT, "domains", "data_agreed")
     os.makedirs(out_dir, exist_ok=True)
     report = {}
     for task, (qfn, key) in TASKS.items():
