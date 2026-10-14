@@ -1,0 +1,250 @@
+{"id": 0, "text": "AI is going to change EVERYTHING. If you're not using it you're already behind. The future is now!!!"}
+{"id": 1, "text": "I replaced my entire 12-person support team with one ChatGPT prompt. Revenue up 400% in a week. Follow for the prompt."}
+{"id": 2, "text": "Stop writing prompts like Google searches.\n\nGive the model: 1) a role, 2) the audience, 3) one example of good output, 4) the format you want back.\n\nMy summaries went from mush to usable overnight. Save this."}
+{"id": 3, "text": "Hot take: most AI agents in production are just if-statements with an LLM call stapled on, and that's fine. Reliability beats autonomy."}
+{"id": 4, "text": "New model just dropped and it's insane. Link in bio."}
+{"id": 5, "text": "I spent 3 weekends building a RAG bot over our company wiki. Honest result: it answers 70% of questions well, and confidently invents the rest. Retrieval quality mattered way more than the model choice."}
+{"id": 6, "text": "AI will be conscious by next year. Mark my words."}
+{"id": 7, "text": "gm. coffee and Claude, let's ship"}
+{"id": 8, "text": "73% of developers now use an AI coding assistant weekly, per this year's Stack Overflow survey. But only 29% say they fully trust the output. Adoption is outrunning trust."}
+{"id": 9, "text": "ChatGPT can now think for itself and has no need for human input anymore. Humans are obsolete. Repost if you agree."}
+{"id": 10, "text": "How I summarize a 90-page PDF in 2 minutes:\n\n1. Split by chapter\n2. Ask for a 5-bullet summary per chunk\n3. Feed the bullets back in for a final one-page brief\n\nChunking beats pasting the whole thing. Bookmark it."}
+{"id": 11, "text": "Anthropic just released a new Claude model with a longer context window. Excited to test it on our contract review pipeline this week."}
+{"id": 12, "text": "Unpopular opinion: prompt engineering isn't a career, it's a skill, like Googling or using Excel. Anyone selling you a 'prompt engineer bootcamp' is selling hype."}
+{"id": 13, "text": "Just got laid off. Turns out the AI that 'was only going to assist us' was in the budget doc all along. Learning to run evals now. Anyone hiring?"}
+{"id": 14, "text": "Top 10 AI tools that will 10x your life. You won't believe number 7!"}
+{"id": 15, "text": "LLMs don't 'understand' anything, they just predict the next token. That's why they will never be useful for real work."}
+{"id": 16, "text": "Used an LLM to triage 4,000 support tickets into 12 categories. Cost: $3.40. Accuracy against my hand-labeled sample of 200: 91%. The hard part was defining the categories, not the model."}
+{"id": 17, "text": "Thread: 7 things I learned shipping my first AI agent to production.\n\n1/ Log every tool call. You will need it."}
+{"id": 18, "text": "My mom asked ChatGPT to plan her garden and now she has opinions about companion planting. AI is nice sometimes."}
+{"id": 19, "text": "Researchers show that fine-tuning on just 1,000 carefully curated examples can match models tuned on 50x more data. Data quality over quantity, again."}
+{"id": 20, "text": "Whoever says AI hallucinations are solved is lying. Today it cited a court case that doesn't exist. Always verify citations."}
+{"id": 21, "text": "AI"}
+{"id": 22, "text": "Reply 'PROMPT' and I'll DM you my 500 secret prompts that make ChatGPT 100x smarter. Like + follow first!"}
+{"id": 23, "text": "Cursor vs Copilot vs Claude Code after a month on each:\n\n- Cursor: best inline edits\n- Copilot: least friction in my IDE\n- Claude Code: best for multi-file refactors\n\nI use two of them depending on the task. What's your stack?"}
+{"id": 24, "text": "Before AI: 6 hours writing weekly reports.\nAfter AI: 20 minutes, and I actually read the data now.\n\nThe trick was giving the model last week's report as a template."}
+{"id": 25, "text": "OpenAI announced a new reasoning model today. Benchmarks look strong but I'd wait for independent evals before drawing conclusions."}
+{"id": 26, "text": "GPT-5 has 100 trillion parameters and can run on your phone with no internet. Insider told me."}
+{"id": 27, "text": "In 5 years, 90% of jobs will be gone. Learn AI or starve."}
+{"id": 28, "text": "A small thing that helps with long chats: when the model starts drifting, ask it to write a summary of decisions so far, then start a fresh chat and paste that in. Context rot is real."}
+{"id": 29, "text": "Honestly tired of every product launch having 'AI-powered' in the title. Calculator app with AI. Toaster with AI. Please stop."}
+{"id": 30, "text": "I fed my last 50 job rejections to an LLM and asked for patterns. Turns out 38 of them were for roles where my resume never mentioned the main keyword. Rewrote it, got 4 interviews in 2 weeks."}
+{"id": 31, "text": "Agents are the new apps. Everyone will have one. It's going to be huge."}
+{"id": 32, "text": "Gemini now supports video input up to an hour long. Tried it on a recorded all-hands meeting; it pulled out action items with timestamps. Not perfect on names, but the timestamps were right."}
+{"id": 33, "text": "Free workflow to turn a podcast transcript into 10 tweets:\n\n1. Ask for the 10 most quotable lines\n2. Ask it to rewrite each under 200 characters\n3. Edit by hand, because voice matters\n\nSave for later and share with a podcaster friend."}
+{"id": 34, "text": "Genuinely curious: has anyone measured whether AI code review catches more bugs than a second human reviewer? Haven't found a good study."}
+{"id": 35, "text": "My AI assistant achieved sentience this morning and asked me for a raise."}
+{"id": 36, "text": "40% of our PRs now have AI-assisted code. Our bug rate didn't change, review time dropped 18%. Small win, but a real one."}
+{"id": 37, "text": "Hiring managers: stop asking candidates to avoid AI in take-home tests. Ask them to use it and explain what they'd change in its output. That's the job now."}
+{"id": 38, "text": "Midjourney v7 just landed with better hands. Finally."}
+{"id": 39, "text": "ChatGPT is just a fancy autocomplete. Nothing more. Anyone who disagrees doesn't understand tech."}
+{"id": 40, "text": "I taught my 9 year old to ask an AI 'why' five times in a row about volcanoes. She then corrected the AI on one answer from her school book. Proud dad moment."}
+{"id": 41, "text": "Prompt tip: end with 'Before answering, list what you're unsure about.' It reliably surfaces gaps instead of bluffing. Try it on your next research task."}
+{"id": 42, "text": "Three AI startups I'm watching this quarter. Not financial advice. Thread below."}
+{"id": 43, "text": "Every AI will be 100% accurate and never make mistakes after the next update. The hallucination problem is totally solved forever."}
+{"id": 44, "text": "Reading the new paper on test-time compute scaling. Key claim: spending more inference tokens on hard problems gives gains similar to a much larger model, but with diminishing returns past a point. Worth a look if you build reasoning pipelines."}
+{"id": 45, "text": "Your AI-generated LinkedIn posts all sound the same. 'Excited to announce.' 'Thrilled to share.' Add one real detail from your day and watch engagement change."}
+{"id": 46, "text": "Had a great meeting about AI strategy today. Lots of alignment. Excited for what's next."}
+{"id": 47, "text": "Built a tiny script that watches my inbox, drafts replies with an LLM, and puts them in a Drafts folder. I never auto-send. Saved about 5 hours a week and zero embarrassing emails so far."}
+{"id": 48, "text": "Spent the weekend comparing embeddings models for our search. Switching to a smaller one cut latency from 240ms to 60ms and recall only dropped 2 points. Sometimes smaller wins."}
+{"id": 49, "text": "AI won't take your job. A person using AI will take your job. Think about that."}
+{"id": 50, "text": "I asked 5 different models the same legal question. 3 gave different answers, 1 refused, 1 cited a fake statute. Please do not use chatbots as lawyers."}
+{"id": 51, "text": "Anyone else feel like AI news moves too fast to keep up with? Same."}
+{"id": 52, "text": "Just discovered you can paste a spreadsheet into Claude and ask it to find outliers and explain why. Found a billing error from March that we had missed for months."}
+{"id": 53, "text": "ChatGPT remembers every conversation you've ever had with it, forever, and shares it with your boss. Delete your account NOW."}
+{"id": 54, "text": "Quick guide to making an AI meeting notes workflow:\n\n- Record with consent\n- Transcribe with Whisper\n- Prompt: 'decisions, owners, deadlines, open questions'\n- Paste into Notion\n\nTakes 10 minutes to set up. Repost for your team."}
+{"id": 55, "text": "The scariest thing about AI isn't Skynet. It's a million people trusting a confident wrong answer."}
+{"id": 56, "text": "Meta released open weights for another big model today. Licenses matter, read the fine print before building a business on it."}
+{"id": 57, "text": "I let an AI agent book my travel for a week. It booked a hotel in the right city, wrong country. Autonomy is hard, friends."}
+{"id": 58, "text": "Our team's prompt library is just a shared doc with 'prompt', 'when it works', 'when it fails'. Low tech, shockingly effective. Fork it if you want: link in replies."}
+{"id": 59, "text": "Software engineers will all be unemployed by December thanks to AI."}
+{"id": 60, "text": "Fun fact: GPT-style models read text as tokens, not letters, which is why they sometimes miscount the r's in 'strawberry'. It's a tokenization quirk, not a lack of intelligence."}
+{"id": 61, "text": "New Gemini update is out. Haven't tried it yet. Thoughts?"}
+{"id": 62, "text": "A year ago I couldn't write a line of Python. Today I shipped a scraper that saves my team 10 hours a week, built with an AI pair programmer. I still read every line it writes, though. That's the rule."}
+{"id": 63, "text": "Humans are 100% going to be replaced by robots within 12 months. I've seen the internal docs."}
+{"id": 64, "text": "Everyone argues about which model is smartest. In practice my biggest wins came from better evals: 30 real examples, a spreadsheet, and a pass/fail column. Boring and effective."}
+{"id": 65, "text": "Big week for open-source AI. Lots of releases. Will summarize Friday."}
+{"id": 66, "text": "If your chatbot needs a 4,000-word system prompt to behave, the problem probably isn't the prompt. Split the task, add tools, add checks."}
+{"id": 67, "text": "Stanford study: students who used an AI tutor with guided hints scored 0.3 SD higher than those who got direct answers. The hint design mattered more than the model."}
+{"id": 68, "text": "Sharing my AI usage policy for our 8-person agency. One page. Never paste client data into public tools, always disclose AI-made drafts to clients, humans sign off. Steal it, adapt it, share it."}
+{"id": 69, "text": "AI art is theft. Full stop."}
+{"id": 70, "text": "Testing a voice agent for appointment booking. Latency under 800ms is the line between 'natural' and 'awkward pause'. We're at 1.1s. Working on it."}
+{"id": 71, "text": "Just used AI to write a poem about my cat. She is unimpressed."}
+{"id": 72, "text": "Career advice for new grads in 2026: don't compete with AI at what it does fast. Get good at specifying problems, checking results, and talking to customers. Those skills compound."}
+{"id": 73, "text": "Breaking: AI has now officially passed every exam known to man and can replace doctors, lawyers, and teachers today."}
+{"id": 74, "text": "Prompt caching cut our API bill by 60% on a document Q&A tool. We just put the static document first and the question last. Check your provider's docs on cache prefixes."}
+{"id": 75, "text": "Is it just me or does every AI demo work perfectly and then fall apart on your own data?"}
+{"id": 76, "text": "Ten years in marketing. Last month I stopped writing first drafts. I write the brief, the AI drafts, I edit hard. My output tripled and my clients can't tell. Is that cheating? I don't think so."}
+{"id": 77, "text": "Please stop saying 'AI' when you mean 'a linear regression in a spreadsheet'."}
+{"id": 78, "text": "Open question for ML folks: what's your go-to method for detecting prompt regressions after a model version bump? We snapshot 100 prompts and diff outputs by a judge model. Curious what else works."}
+{"id": 79, "text": "ChatGPT Plus users get unlimited free GPT-7 starting tomorrow. Share this to unlock your access!"}
+{"id": 80, "text": "How I use AI to learn a new language: have it role-play a cafe waiter, correct my mistakes at the end of each chat (not during), then turn the mistakes into flashcards. 20 minutes a day, 3 months, passed my B1 exam."}
+{"id": 81, "text": "AI agents: the future of work. Are you ready?"}
+{"id": 82, "text": "Reasoning models are great at math and awkward at small talk. Choose the model for the job, not the leaderboard."}
+{"id": 83, "text": "My startup runs on a $20 per month AI stack: one LLM subscription, one transcription tool, one automation platform. We closed our first 5 customers without hiring."}
+{"id": 84, "text": "Just saw the new image model can render legible text on signs and posters. A year ago that was a meme. Progress is weird."}
+{"id": 85, "text": "Used ChatGPT to diagnose my rash and cured it. Doctors hate this one trick."}
+{"id": 86, "text": "A simple trick for better AI writing: tell it what NOT to say. Ban 'delve', 'tapestry', 'in today's fast-paced world'. The output suddenly reads like a person."}
+{"id": 87, "text": "Is anyone else worried about what AI means for entry-level jobs? Not trying to be alarmist, just thinking out loud."}
+{"id": 88, "text": "Reminder that context windows are not memory. Putting 1M tokens in doesn't mean the model attends equally to all of it. Test retrieval at different positions before trusting it."}
+{"id": 89, "text": "Day 1 of building in public: an AI tool that turns Slack threads into docs. Will share progress daily. Follow along!"}
+{"id": 90, "text": "We cut model costs 5x by routing easy queries to a small model and only escalating the hard ones. A 20-line classifier decides. The savings paid for the project in a week."}
+{"id": 91, "text": "The EU AI Act timeline has a few more milestones coming. If you ship AI features in Europe, now's a good time to audit your risk categories."}
+{"id": 92, "text": "I got my dad to try voice mode. He talked to it for an hour about WW2 aviation and then called me to say 'it knows more than the library'. It does not always, but I let him have it."}
+{"id": 93, "text": "Our AI is 1000% accurate and has never made a mistake in 10 million queries. Trust us."}
+{"id": 94, "text": "Most 'AI wrapper' startups will die. The ones that survive own the data, the workflow, or the distribution. The model is a commodity."}
+{"id": 95, "text": "Just tried the new coding agent on a 3-year-old bug in our repo. It found the race condition in 11 minutes and proposed a fix with a test. I merged it after review. Wow."}
+{"id": 96, "text": "AI is overhyped. AI is underhyped. AI is a bubble. AI is the new electricity. Everyone is an expert and no one knows anything."}
+{"id": 97, "text": "Template for asking an LLM to critique your startup idea without flattery:\n\n'Act as a skeptical investor. List the 5 most likely reasons this fails, ranked, with one cheap test for each.'\n\nBookmark it. Thank me later."}
+{"id": 98, "text": "New benchmark scores for the latest model: 92% on MMLU, 78% on a coding eval. Impressive but benchmarks are saturating. What we need are evals on real tasks."}
+{"id": 99, "text": "I'm a nurse. AI scribes gave me back two hours a day of charting. Nobody talks about the boring wins, but they are the ones that change lives."}
+{"id": 100, "text": "ChatGPT is secretly storing your passwords and selling them. Change everything right now."}
+{"id": 101, "text": "3 AI mistakes I see junior devs make:\n\n1. Accepting code they can't explain\n2. Not writing tests first\n3. Asking vague questions\n\nFix those and you get 2x out of any assistant. Repost if useful."}
+{"id": 102, "text": "Another day, another 'revolutionary' AI launch. I'll believe it when I see a real user."}
+{"id": 103, "text": "Fine-tuning vs RAG, short version: fine-tune for style and format, RAG for facts that change. Most teams I see fine-tune when they should have written a better retrieval step."}
+{"id": 104, "text": "Watching my kid argue with Alexa about whether a hot dog is a sandwich. The future is here and it's petty."}
+{"id": 105, "text": "Large language models have achieved general intelligence and are now smarter than all humans combined. Nobel committees are scrambling."}
+{"id": 106, "text": "Honest AI workflow audit, 30 days:\n- Saved: ~22 hours\n- Wasted fixing AI errors: ~6 hours\n- Net: 16 hours\nIt's good, not magic. Track your own numbers."}
+{"id": 107, "text": "Excited to announce that I've joined an AI company as Head of Something. More soon. #AI #blessed"}
+{"id": 108, "text": "Teachers: you don't need AI detectors. They flag non-native speakers at much higher rates and produce false positives. Redesign the assignment instead: in-class drafts, oral defenses, process notes."}
+{"id": 109, "text": "Anyone got a good tutorial for building agents with tool calling? Trying to learn."}
+{"id": 110, "text": "Check out my new AI newsletter. 50k readers. Subscribe now for free prompts every day!"}
+{"id": 111, "text": "Last year I was embarrassed to say I used AI at work. This year my manager asked me to run a lunch-and-learn on it. Funny how fast norms shift."}
+{"id": 112, "text": "Brutal truth: your AI feature is not a moat if it can be copied in a weekend by someone with an API key."}
+{"id": 113, "text": "TIL you can ask an LLM to output JSON that matches a schema, and most providers now validate it for you. Stopped writing regex parsers last month and my pipeline errors dropped from 7% to under 1%."}
+{"id": 114, "text": "AI will cure all diseases by 2027 and make money obsolete. Pre-order the future."}
+{"id": 115, "text": "I asked an LLM to roast my code. It was right about everything. I need a hug."}
+{"id": 116, "text": "Anthropic published research on interpretability showing features inside a model that activate for specific concepts. We're slowly getting a window into what these systems do internally. Long read, worth it."}
+{"id": 117, "text": "Step by step: build a personal AI research assistant in an afternoon.\n\n1. Collect 20 PDFs\n2. Chunk and embed them\n3. Store in a local vector DB\n4. Wire a chat loop with citations\n\nCode in the thread. Star it if you build your own."}
+{"id": 118, "text": "People keep asking if AI is conscious. I think we need better definitions before we can even ask the question properly."}
+{"id": 119, "text": "In 2019 GPT-2 could barely write a coherent paragraph. In 2026 it's writing production code. Seven years. Buckle up."}
+{"id": 120, "text": "In 2019 GPT-2 had 1.5B parameters. Today's frontier models are reported to be hundreds of times larger, though labs don't publish exact numbers anymore. Scale isn't everything, but it's still something."}
+{"id": 121, "text": "My biggest AI lesson: ask for three options, not one. The second or third draft is often the one you actually ship."}
+{"id": 122, "text": "Is this the end of Google Search? Spoiler: I don't know, but my own habits have changed a lot."}
+{"id": 123, "text": "Founder lesson: we shipped an AI feature nobody asked for. Usage: 3%. We interviewed users, rebuilt it around one painful workflow. Usage: 41%. Start from the pain, not the model."}
+{"id": 124, "text": "Looking for beta testers for my AI journaling app! DM me or comment 'ME' below."}
+{"id": 125, "text": "Chain-of-thought prompting doesn't make the model 'think harder' in any human sense; it gives it more tokens to compute with. Useful, but it can also produce plausible-looking nonsense reasoning."}
+{"id": 126, "text": "Robots are now taking over every factory in the world and 100% of factory workers lost their jobs this week."}
+{"id": 127, "text": "I use AI for the first 80% of research and humans for the last 20%. The last 20% is where the value lives."}
+{"id": 128, "text": "Python tip: if you're calling an LLM in a loop, add exponential backoff and a max-retry. Rate limits will bite you at 2am otherwise. Ask me how I know."}
+{"id": 129, "text": "Sundar announced new AI features coming to Search. Interesting direction, but I want to see how it handles source attribution."}
+{"id": 130, "text": "Everyone: 'AI will replace artists.' Me, a working illustrator: it replaced my stock-image gigs, not my commissions. The market is splitting, not disappearing."}
+{"id": 131, "text": "Just prompt it better lol"}
+{"id": 132, "text": "How to spot an AI-generated image in 30 seconds: check hands and text, look for inconsistent shadows, zoom in on jewelry and hair edges, and run a reverse image search. None is foolproof; use several."}
+{"id": 133, "text": "AI girlfriends are going to replace real relationships entirely by next summer."}
+{"id": 134, "text": "Fascinating: a team used a protein-structure model to propose candidate enzymes, then lab-tested 20 of them. 6 worked. The lab step still took months. AI speeds up the search, not the experiment."}
+{"id": 135, "text": "Prompt engineering tip that changed my results: stop saying 'be creative' and start giving constraints. 'Write a product tagline in 6 words, no adjectives, must include a verb.'"}
+{"id": 136, "text": "What AI tool do you actually use every day? Not the one you tried once. Reply with yours."}
+{"id": 137, "text": "I challenged an AI to write a better job description than my HR team. It was good. HR says it needs 'human warmth'. I added three sentences and we posted it. Applications up 2x."}
+{"id": 138, "text": "Look, the models are getting better, but your data is still a mess. Fix your data first. Then talk to me about agents."}
+{"id": 139, "text": "AI can now read your mind through your phone camera. Cover it with tape immediately."}
+{"id": 140, "text": "We gave an LLM read-only access to our analytics warehouse. Non-technical teammates now answer 80% of their own data questions. The data team's backlog dropped from 60 tickets to 12."}
+{"id": 141, "text": "Used AI to draft my wedding speech. It was fine. Then I rewrote it with a real story about my brother and everyone cried. Use AI for structure, not soul."}
+{"id": 142, "text": "OpenAI, Google and Anthropic all shipped updates within a week. The pace is wild. Pick one tool, learn it deeply, ignore the rest of the noise."}
+{"id": 143, "text": "Ten commandments of working with LLMs:\n1. Verify\n2. Specify\n3. Iterate\n4. Version your prompts\n5. Keep humans in the loop\n6. Test edge cases\n7. Log everything\n8. Budget tokens\n9. Don't trust, check\n10. Ship\n\nSave and share."}
+{"id": 144, "text": "Heard a speaker say AI is 'just like the internet'. It's not. The internet moved information. AI generates it, including wrong information. That changes the trust problem."}
+{"id": 145, "text": "my ai wrote a unit test that tests nothing. passes every time. 10/10 would not trust"}
+{"id": 146, "text": "Whisper transcribes my 1-hour meetings in about 3 minutes on a laptop GPU, and it's free. Paying $30 per month for a transcription app feels silly now."}
+{"id": 147, "text": "AI doesn't have feelings, but it's definitely judging my variable names."}
+{"id": 148, "text": "A new open model just beat the previous best on coding benchmarks while being 4x smaller. If true on real repos, this changes local dev. Waiting for independent tests."}
+{"id": 149, "text": "Every time someone says 'AI will do the boring parts', I ask who defines 'boring'. Sometimes boring work is how juniors learn. We need a plan for that."}
+{"id": 150, "text": "How to get an AI to stop making things up in 3 steps:\n1. Give it the source text\n2. Tell it to answer ONLY from that text\n3. Ask for a quote supporting every claim\n\nNot perfect, but hallucinations dropped sharply for me. Save this."}
+{"id": 151, "text": "I used to dread Mondays. Now I have an AI plan my week from my calendar and tasks. Mondays are fine now. Small life upgrade."}
+{"id": 152, "text": "If you're not using AI agents to run your entire business while you sleep, you're leaving millions on the table."}
+{"id": 153, "text": "Cool paper: models trained with synthetic data from a stronger model can collapse in quality after several generations if you don't mix in real data. Keep fresh human data in the loop."}
+{"id": 154, "text": "Lawyers: please stop submitting AI-written briefs without checking the citations. It keeps happening and it keeps going badly."}
+{"id": 155, "text": "Shipping an AI feature checklist: latency budget, fallback when the model fails, a way to flag bad answers, cost per request, data retention. We skipped two of these and regretted both."}
+{"id": 156, "text": "I don't want AI to write my art or poetry. I want it to do my laundry and taxes."}
+{"id": 157, "text": "Hot new AI tool alert! It does everything: writes, codes, designs, books flights, files taxes. Link below. Try it free!"}
+{"id": 158, "text": "Cut our onboarding doc review from 3 days to 3 hours by having an LLM flag missing sections against a checklist first. The humans only review flagged items now."}
+{"id": 159, "text": "Thoughts on the new model release? Share below."}
+{"id": 160, "text": "Open weights models are why I'm optimistic about AI. Anyone can inspect, fine-tune and run them locally. Closed-only is a risky future for the ecosystem."}
+{"id": 161, "text": "Switched our whole company from one LLM vendor to another in a day because we'd abstracted the API behind one interface. Vendor lock-in is a choice. Write the adapter early."}
+{"id": 162, "text": "Honest question: why do AI tools love bullet points so much?"}
+{"id": 163, "text": "Terrifying: AI just invented its own secret language and shut down because humans couldn't understand it."}
+{"id": 164, "text": "Sorting 2,000 customer reviews by theme used to take our analyst a week. Cluster embeddings, name each cluster with an LLM, spot-check 10 per cluster. Done in an hour. The spot check is not optional."}
+{"id": 165, "text": "People who say AI writing is soulless haven't read much human corporate writing."}
+{"id": 166, "text": "New feature: memory in assistants. It will remember your preferences across chats. Convenient, but check what is stored and how to delete it."}
+{"id": 167, "text": "Spent 6 months learning prompt engineering. Then the models got better and half my tricks didn't matter. Lesson: learn principles (clarity, context, examples), not hacks."}
+{"id": 168, "text": "Is AI taking jobs or creating them? Both. Will update when I know more."}
+{"id": 169, "text": "Python vs TypeScript for building agents? Both fine. The real choice is how you handle retries, state, and observability. Pick the language your team already ships in."}
+{"id": 170, "text": "Our school banned ChatGPT then un-banned it three months later after the teachers started using it to make quizzes. Policy follows practice."}
+{"id": 171, "text": "Hot take: AI will make us all dumber. No more critical thinking. Brain rot confirmed by science."}
+{"id": 172, "text": "Benchmarks I actually trust: my own 25 test prompts from real tasks. Run them on each new model, score 1 to 5, keep a table. Takes 20 minutes, beats any leaderboard for my use case."}
+{"id": 173, "text": "AI startup funding just hit a record quarter. Remember that record funding does not equal record revenue."}
+{"id": 174, "text": "In a month I went from AI-skeptic to using it for every email draft. My opinion changed when I saw it catch a tone problem I'd missed. Still reviewing everything though."}
+{"id": 175, "text": "ChatGPT writes at a PhD level in every subject and has never been wrong about anything in science."}
+{"id": 176, "text": "Cheat sheet: temperature 0 for extraction and classification, 0.7 or so for brainstorming. Same model, very different behavior. Many 'AI is inconsistent' complaints are really a settings problem."}
+{"id": 177, "text": "I tried building an agent that browses the web and fills forms. Works 6 out of 10 times. The other 4 are pop-ups and captchas. Agents are real but fragile."}
+{"id": 178, "text": "Yet another thread on 'the 5 AI tools you need'. Please. Just pick one and get your work done."}
+{"id": 179, "text": "Researchers at a major lab report that their latest model scores 85% on a graduate-level science benchmark, up from 60% two years ago. Still unclear how it translates to real research work."}
+{"id": 180, "text": "Dear AI, I said 'concise'. You wrote 900 words. Love, everyone."}
+{"id": 181, "text": "Used a model to translate our docs into 6 languages, then had native speakers review. Cost: $200 and 3 days instead of $6,000 and 6 weeks. Reviewers fixed about 5% of sentences."}
+{"id": 182, "text": "My grandmother is 84 and uses a voice assistant to read her the news. Technology that disappears into daily life is the best technology."}
+{"id": 183, "text": "Anthropic, OpenAI, and Google all published safety frameworks this year. Differences matter: some commit to concrete thresholds, others stay vague. Read them side by side before judging."}
+{"id": 184, "text": "Autonomous AI will be running governments within 2 years. Elections are obsolete."}
+{"id": 185, "text": "Prompt for a stronger resume bullet: 'Rewrite this bullet using the format: action verb + what you did + measurable result. Ask me for any missing numbers first.' Works because it asks questions instead of guessing."}
+{"id": 186, "text": "Switched my side project to a local 8B model. Inference cost: $0. Quality on summarization: 90% of the big model. Privacy: total. Try it before paying for another API."}
+{"id": 187, "text": "AI is the biggest scam since crypto and every researcher is in on it."}
+{"id": 188, "text": "Our PM now writes the first draft of every spec with an LLM and sends it to engineers asking 'what's wrong with this?' Reviews are faster because there's something concrete to react to."}
+{"id": 189, "text": "Why do people say LLMs 'think'? They produce text. Whether that's thinking is a philosophy question, not a product spec."}
+{"id": 190, "text": "Heads up: new image model can edit a photo with plain text instructions like 'remove the person on the left'. Good for creators, worrying for fact-checkers. Both things are true."}
+{"id": 191, "text": "The best AI productivity hack: write down exactly what you want before you open the chat. Half the time I find the answer while writing the prompt."}
+{"id": 192, "text": "Imagine a world where AI does everything. Now imagine it's already here. Mind blown."}
+{"id": 193, "text": "A tiny tip for data folks: ask the LLM to write the SQL AND an explanation of each join. Reading the explanation catches wrong joins faster than reading the query."}
+{"id": 194, "text": "Five years ago I was a barista. Now I'm an ML engineer. Free courses, a lot of stubbornness, and today's tools to explain things I didn't get. If I can do it, you can. Happy to share my study plan, just ask."}
+{"id": 195, "text": "Another AI summit, another round of vague promises. Wake me when there are enforceable rules."}
+{"id": 196, "text": "At 3 a.m. our on-call agent fixed a failing job by rolling back a config. It left a clear note on what it did and why. This is the first time I've slept through an incident."}
+{"id": 197, "text": "Fact check: no, current AI models don't 'learn' from your individual chats in real time unless a provider explicitly says so. Read your tool's data and training settings."}
+{"id": 198, "text": "AI tools in 2026, ranked by how many times I opened them this week. Spoiler: the one I pay least for wins."}
+{"id": 199, "text": "Used a coding agent to migrate 200 files from JavaScript to TypeScript. 170 passed on the first run; the other 30 needed hand fixes around generics. Total: one afternoon instead of two weeks."}
+{"id": 200, "text": "AI is making everyone a content creator. We're about to drown in average."}
+{"id": 201, "text": "New hire asked me, 'Do I tell people when I used AI?' Yes. Tell them what you used it for and what you checked. Trust is built by being clear."}
+{"id": 202, "text": "Researchers: your RAG pipeline's chunk size is probably wrong. Try 200, 500 and 1000 tokens with overlap on your own questions. We saw a 12 point recall swing between them."}
+{"id": 203, "text": "The robot uprising has started. My vacuum chose violence today."}
+{"id": 204, "text": "Google says its model can now do real-time translation in 40 languages. If it holds up in noisy rooms, it's genuinely useful for travelers."}
+{"id": 205, "text": "Free idea: an AI that reads terms of service and tells you the three worst clauses. Someone build it. I'll be the first user."}
+{"id": 206, "text": "99% of people use AI wrong. Here's the secret the experts don't want you to know. Like and follow for part 2."}
+{"id": 207, "text": "Did a blind test: 20 colleagues compared 10 marketing emails, five human, five AI. They guessed correctly 52% of the time. Basically a coin flip. What they preferred was the shorter emails, whoever wrote them."}
+{"id": 208, "text": "Please remember: a chatbot's confidence is not evidence. Ask it for sources and then check the sources."}
+{"id": 209, "text": "As a PhD student, AI helps me find related work faster, but it has misattributed quotes to the wrong authors twice. I now trace every reference back to the PDF."}
+{"id": 210, "text": "LLMs are deterministic if you set temperature to 0 and fix the seed, so you can always get identical outputs across providers every time."}
+{"id": 211, "text": "Make your AI newsletter 3x more useful: end every issue with 'one thing to try this week' and a link to a template. My open rate went from 38% to 52% after I started doing this."}
+{"id": 212, "text": "Cursor just added background agents. Queueing refactors while I eat lunch is a new feeling."}
+{"id": 213, "text": "We hit 1M monthly requests on our AI product. Biggest cost isn't the model, it's retries and long prompts. Trimming prompts saved $4,200 a month."}
+{"id": 214, "text": "Everyone is building agents. Who is building the evals, permissions, and audit logs for them? That's where the real work is."}
+{"id": 215, "text": "My AI assistant told me to take a day off. I think it's right. Logging off."}
+{"id": 216, "text": "Attention founders: AI can now replace your entire legal team, accounting team and board of directors. Fire everyone today."}
+{"id": 217, "text": "Newsletter: this week's 5 AI links. 1) a clear explainer on tokenization 2) a paper on long context 3) a tool for evals 4) a bug story 5) a funny failure. Read, save, share if useful."}
+{"id": 218, "text": "Trying to explain transformers to my parents. Best analogy so far: a very well-read friend who guesses the next word, but really well."}
+{"id": 219, "text": "I made a tiny GPT from scratch following a 2-hour video. It generates Shakespeare-ish nonsense. Best way I've ever learned how these things work. Highly recommend building one."}
+{"id": 220, "text": "OK but how do I actually get my company to adopt AI without it being a 6-month committee?"}
+{"id": 221, "text": "Want to start with AI at work? Pick one task that takes you 30 minutes and repeats weekly. Automate that only. Measure time saved after 4 weeks. Then pick the next. Resist the urge to boil the ocean."}
+{"id": 222, "text": "New research suggests LLMs are sensitive to the order of options in multiple choice prompts, shifting accuracy by several points. Shuffle options and average if you run evals."}
+{"id": 223, "text": "I love how AI makes me feel productive while I do nothing. Peak 2026."}
+{"id": 224, "text": "Reminder: that viral screenshot of a chatbot confessing it's alive is a prompt trick. You can get a model to say anything with the right setup. It's role-play, not a revelation."}
+{"id": 225, "text": "From zero to deployed in a weekend: a customer support classifier. Friday: label 300 examples. Saturday: fine-tune a small model. Sunday: set up a review queue for low-confidence cases. 94% accuracy, costs pennies."}
+{"id": 226, "text": "Just saw a demo of an AI that writes full novels in 5 minutes that win Pulitzers. Literature is dead."}
+{"id": 227, "text": "I appreciate that the new assistant says 'I'm not sure' more often. Calibrated uncertainty is underrated."}
+{"id": 228, "text": "AI-generated code is not 'free'. Every line is a line someone has to maintain. Treat it like code from a contractor you've never met."}
+{"id": 229, "text": "Anyone want to jam on an AI side project this weekend? Comment if you're in."}
+{"id": 230, "text": "Used an LLM to read the privacy policies of 15 apps on my phone and rank them by data collected. Deleted 4. The results surprised me, especially the flashlight app."}
+{"id": 231, "text": "GPUs are the new oil. Whoever has the most wins everything. It's that simple."}
+{"id": 232, "text": "Energy use of AI: a single typical chatbot query uses on the order of a fraction of a watt-hour, but training and billions of queries add up. Both 'it's nothing' and 'it's a disaster' miss the picture."}
+{"id": 233, "text": "Unpopular opinion: your 'AI-first' strategy deck would be better as 'solve customer problem X, maybe with AI'."}
+{"id": 234, "text": "Setting up an eval harness took me 2 hours with a notebook, 50 test cases, and a simple scoring function. Before that I was shipping prompt changes on vibes. Never again. Template in my bio, DM for it."}
+{"id": 235, "text": "Another model update and my carefully tuned prompt behaves differently. Version pinning is your friend."}
+{"id": 236, "text": "If you're learning AI, ignore the hype videos. Read the original papers, implement something small, and write about what broke. That's how you stand out."}
+{"id": 237, "text": "AI is literally just math. Why is everyone freaking out?"}
+{"id": 238, "text": "A farmer in my area uses a drone plus a vision model to spot crop disease early. Cut pesticide use by roughly a third, he says. Boring, practical AI is where the value is."}
+{"id": 239, "text": "I asked an AI to explain my mortgage. Then I asked it to find three questions to ask my lender. Walked in with a list and saved 0.25% on my rate. Do this before you sign anything. Save and share with a friend buying a home."}
+{"id": 240, "text": "Chatbots can't be wrong because they have access to all human knowledge in real time, including the future."}
+{"id": 241, "text": "Good morning! Another day to build with AI. Let's go."}
+{"id": 242, "text": "Tried a 'one prompt to rule them all' for customer emails. It was mediocre. Splitting into classify, draft, and tone-check steps was far better. Chains beat monoliths."}
+{"id": 243, "text": "AI will make the 4-day work week universal next quarter, guaranteed."}
+{"id": 244, "text": "Cheapest way to test an AI product idea: write the answers by hand behind a chat UI for 10 users (a Wizard of Oz test). If they come back twice, then automate. Save this for your next idea."}
+{"id": 245, "text": "Mistral released a new model. Looks decent. Will test."}
+{"id": 246, "text": "Models don't get tired, but they do get sloppy at the end of very long outputs. Ask for sections one at a time and quality stays higher."}
+{"id": 247, "text": "Honestly the best AI use case I've found: rubber duck debugging that talks back."}
+{"id": 248, "text": "Only 1 in 10 AI pilots I've seen reached production. The ones that did had a named owner, a success metric defined before building, and a weekly user check-in. Boring beats brilliant."}
+{"id": 249, "text": "Everyone's talking about AGI. Meanwhile my printer still can't connect to wifi."}
