@@ -1,4 +1,7 @@
-"""Keep rows where the Sonnet generator's label and Opus's blind relabel agree on every question.
+"""Keep, per question, the labels where the Sonnet generator and Opus's blind relabel agree.
+
+A row is kept if at least one question agrees; its `questions` and `expected` hold only the agreeing
+questions, so a contested label (e.g. `fit`) is never trained on.
 
     python domains/merge_agreed.py   # writes domains/data_agreed/{leads,viral}_{train,eval}.jsonl + agreement report
 """
@@ -40,21 +43,21 @@ def main(seed=0, eval_frac=0.1):
                 if o is None:
                     continue
                 tot += 1
-                agree = True
+                qs, agreed = qfn(), {}
                 for k, v in r["expected"].items():
                     field_n[k] = field_n.get(k, 0) + 1
                     if o.get(k) == v:
                         field_hits[k] = field_hits.get(k, 0) + 1
-                    else:
-                        agree = False
-                if agree:
-                    kept.append({"state": {key: r["text"]}, "questions": qfn(), "expected": r["expected"]})
+                        agreed[k] = v
+                if agreed:
+                    kept.append({"state": {key: r["text"]}, "questions": {k: qs[k] for k in agreed},
+                                 "expected": agreed})
         rng.shuffle(kept)
         k = int(len(kept) * eval_frac)
         for name, part in (("train", kept[k:]), ("eval", kept[:k])):
             with open(os.path.join(out_dir, "%s_%s.jsonl" % (task, name)), "w") as f:
                 f.writelines(json.dumps(r) + "\n" for r in part)
-        report[task] = {"rows": tot, "all_fields_agree": len(kept),
+        report[task] = {"rows": tot, "rows_with_any_agreed_question": len(kept),
                         "per_field_agreement": {k: round(field_hits[k] / field_n[k], 3) for k in field_n}}
     print(json.dumps(report, indent=2))
     json.dump(report, open(os.path.join(D, "agreement_report.json"), "w"), indent=2)
