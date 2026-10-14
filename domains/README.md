@@ -22,8 +22,8 @@ repo can promise: score both on the same held-out set of your own labelled data.
 ## Run
 
 ```bash
-python domains/build_dataset.py --task both --n 3000 --out domains/data
-bash domains/train.sh leads english        # GPU + huggingface.co access required
+# (optional) synthetic bootstrap data: python domains/build_dataset.py --task both --n 3000 --out domains/data
+bash domains/train.sh leads english        # GPU + huggingface.co access; full procedure: domains/FINETUNE_ON_PC.md
 laya "From: CEO at B2B SaaS (200 employees). Send pricing, we start next month." --preset leads
 ```
 
