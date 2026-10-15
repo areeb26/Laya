@@ -1,0 +1,231 @@
+# text | intent R/E/S/N | fit 0-3 | has_budget 0/1 | decision_maker 0/1 | next_action B/N/I/D
+# Gold rules: R=asks pricing/demo/contract/start date. E=compares vendors/features/integrations. S=early curiosity, no timeline. N=job seeker, vendor pitch, spam, support.
+# fit: 3 ideal (B2B, ~50-1000 staff, clear need), 2 good, 1 weak (tiny/odd industry/very large w/o need), 0 poor/non-lead.
+# action: B call within a day, I send pricing/material, N nurture, D none.
+I'm the CEO of a 120-person logistics software company. We need this live by next month, can you send pricing and book a demo this week? Budget is approved. | R|3|1|1|B
+Hi, VP of Sales at a 300-person fintech. Comparing you with two other vendors, mainly need Salesforce and Slack integrations. Can someone walk us through? | E|3|0|1|B
+Just reading about your product for a class project, how does it work in general? | S|0|0|0|N
+Congratulations! You've won a $1000 gift card. Click here to claim now. | N|0|0|0|D
+I'm a recent graduate looking for a junior developer role at your company. Attached my CV. | N|0|0|0|D
+Hello, we are an SEO agency and can get you to page one of Google for $99/month. Interested? | N|0|0|0|D
+Founder of a 15-person SaaS startup. We just raised our seed round of $2M and want to buy a tool like yours before Q3. What is the price per seat? | R|3|1|1|I
+I can't log into my account, password reset email never arrives. Please help. | N|0|0|0|D
+Head of Operations at a regional hospital network (2,000 staff). We're exploring options for next fiscal year, no budget set yet. Does it support HIPAA? | E|2|0|1|I
+Director of IT at a 500-person manufacturer. Our contract with the current vendor ends in 60 days, we have budget allocated and need a proposal. | R|3|1|1|B
+Student here, my thesis is about workflow automation. Can I get a free license? | S|0|0|0|N
+Do you have an API? Our dev team is checking whether we can plug it into our stack. We're about 40 people. | E|3|0|0|I
+Could you send me your brochure? Not sure yet if we need this, maybe next year. | S|1|0|0|N
+I am the owner of a small bakery with 4 employees. Is there a cheap plan? | S|1|0|1|I
+Looking to start a pilot in January with 25 users. Our procurement team needs a quote and a security questionnaire. I'm the CTO. | R|3|1|1|B
+We're a 8,000-person bank. Our CIO asked me to collect info on vendors, no timeline yet. | S|2|0|0|N
+Dear Sir, I have a product that will revolutionise your business. Reply for a free consultation. | N|0|0|0|D
+Hi, I'm a marketing manager at a 70-person agency. Would love to see how your reporting dashboard compares to HubSpot's. | E|3|0|0|I
+My invoice shows the wrong amount, please correct it and resend. | N|0|0|0|D
+CFO here. We've allocated $60k for this tool this year. Can you jump on a call Thursday? | R|3|1|1|B
+We're a 25-person design studio. How much does the team plan cost per month? | R|2|0|0|I
+Hey! Saw your post on LinkedIn. Curious what you folks do. Not looking to buy right now. | S|1|0|0|N
+Founder of an early idea-stage startup, no revenue yet and no funding. Is there a free tier? | S|1|0|1|N
+Wir sind ein mittelständisches Maschinenbauunternehmen mit 400 Mitarbeitern und möchten im nächsten Quartal ein Angebot für 100 Lizenzen. Ich bin Geschäftsführer. | R|3|0|1|B
+Looking for a freelancer to build a website for my restaurant. Do you do that? | N|0|0|1|D
+Our VP Engineering wants a demo of the audit logging features. We have SOC 2 renewal in 3 months and budget is signed off. | R|3|1|1|B
+Can you compare your pricing with Zendesk? We are at 150 agents and renewal is in April. | E|3|0|0|I
+I'd like to learn about AI tools in general. Which one would you recommend for a beginner? | S|0|0|0|N
+Buy followers cheap! 10k followers for $5. | N|0|0|0|D
+Head of Growth at a 60-person e-commerce brand. We're evaluating three tools this month; need SSO and Shopify integration. Budget about $20k. | E|3|1|1|B
+Hi, my name is Priya, I'm an intern at a consulting firm. My boss asked me to find out what your enterprise plan costs. | R|2|0|0|I
+We are a public school district. Procurement requires a formal quote. We have funding through a state grant of $80k. I'm the superintendent. | R|2|1|1|B
+Is your service available in India? We're a 30-person startup in Bangalore thinking of adopting something like this later this year. | S|2|0|0|N
+Please unsubscribe me from your mailing list. | N|0|0|0|D
+Chief Product Officer at a 600-person healthtech. Sandboxes and SSO are must-haves. Want a technical deep dive with your engineers before we sign. Budget approved. | R|3|1|1|B
+I run a 3-person consultancy. Looking at your starter plan. Does it include invoicing? | E|1|0|1|I
+Hi, I saw you at the conference. Let's grab a coffee sometime? | S|1|0|0|N
+Our team of 12 is outgrowing spreadsheets. We have maybe $5k to spend. What do you recommend? | E|2|1|0|I
+Greetings from Sunrise Outsourcing! We can handle your customer support at 70% lower cost. | N|0|0|0|D
+As COO of a 900-person retailer I want to roll this out to 50 stores before the holiday season. Send a contract draft. | R|3|1|1|B
+Can your tool export to CSV? Just checking for a colleague. | S|1|0|0|N
+I need to cancel my subscription and get a refund. | N|0|0|0|D
+Co-founder at a Series A company, 45 people. Considering switching from our current tool because of pricing. What can you offer on annual? | E|3|0|1|B
+We are a 2000-person insurer and our head of procurement asked for your SOC 2 report and reference customers for an RFP due on the 30th. | R|3|1|0|B
+Interested in a partnership, we'd like to resell your product in the Middle East. | N|1|0|1|B
+How does your product handle multi-currency? Our finance team is evaluating options alongside QuickBooks. | E|2|0|0|I
+I'm writing an article about SaaS in 2025 and would like a quote from your CEO. | N|0|0|0|D
+Hello, I'm Head of Support at a 200-person SaaS. Our team wants a trial next week, and the director already approved up to $30k. | R|3|1|1|B
+Wondering what your price is. | R|1|0|0|I
+Just a solo freelancer here, can't afford much, but do you have a discount for individuals? | S|0|0|0|N
+We are researching AI automations for 2026 planning. Nothing urgent. Our CMO will look at it in the fall. | S|2|0|0|N
+Please send me your pricing sheet and a case study for the logistics industry. We're 80 people and want to decide by month end. I'm the managing director. | R|3|0|1|B
+Hi, I found a bug in your app: the export button does nothing on Safari. | N|0|0|0|D
+CEO of a 10-person agency. Heard great things. What does onboarding look like and when could we start? | R|2|0|1|B
+Earn money from home! Work 2 hours a day, earn $300. | N|0|0|0|D
+Director of Procurement at a 5,000-person automotive supplier. We are running a vendor evaluation between you, SAP and Oracle for Q1. Budget cleared at $400k. | R|3|1|1|B
+Hi there, how many users does the free plan allow? | S|1|0|0|N
+I'm a developer at a 35-person startup. My CTO asked me to test your API this week and compare against Twilio. | E|3|0|0|I
+We're a nonprofit with 20 staff. Our board approved $8k for software. Do you have a nonprofit discount? | R|2|1|1|I
+Looking for a job in data science, does your team have openings? | N|0|0|0|D
+I'm VP of Marketing at a 1,200-person software company. Our team is just starting to think about this category. Could you send an overview deck? | S|3|0|1|I
+Can I schedule a demo for tomorrow? We have budget and a team of 90 ready to start. I'm the head of operations. | R|3|1|1|B
+Are you hiring sales reps? I have 8 years of experience. | N|0|0|0|D
+Our CTO asked me to check if you support on-prem deployment. Regulated industry, 700 staff, project kicks off in Q2 and has funding. | E|3|1|0|B
+Hey, what's the difference between your Pro and Business plans? | E|2|0|0|I
+Hi, I'm interested but only if you can match $20 per seat. Otherwise I'll stay with our current tool. 60 seats. I make the call. | E|3|0|1|B
+Please advise whether you ship to Canada. | N|0|0|0|D
+Founder and CEO of a 25-person climate-tech startup. We closed a $6M Series A last week and need to set up tooling for the whole team now. Pricing? | R|3|1|1|B
+I'm not the right person, but forwarding to our IT head. She'll want pricing for 200 seats. | E|3|0|0|I
+Hola, somos una empresa de 80 empleados en Madrid y queremos una demo y precios para empezar el mes que viene. Soy la directora general. | R|3|0|1|B
+We saw your ad. How much do you charge? | R|1|0|0|I
+Our company has been using spreadsheets for ten years, no plans to change, just curious about the market. | S|1|0|0|N
+I'd like to sell you a lead list of 50,000 verified CEOs, only $199. | N|0|0|0|D
+Managing partner at a 30-person law firm. We need document automation, partner meeting is next Tuesday where we will approve budget. Can you present on Monday? | R|3|0|1|B
+Is it GDPR compliant? Our legal team wants a DPA before we even trial. 250 employees, evaluating you and one other. | E|3|0|0|I
+Hi, I run a lemonade stand. How can I use your platform? | S|0|0|1|N
+Head of Customer Success at a 500-person SaaS. We want to replace Gainsight by Q4. Budget is $150k. Can we talk this week? | R|3|1|1|B
+I'm a journalist working on a piece about workplace tools. | N|0|0|0|D
+We'd like to trial for 30 days with 10 users before deciding on a 150-seat rollout. VP Ops here. | R|3|0|1|B
+Hey, I'm thinking about maybe starting a company someday and wondering what tools founders use. | S|0|0|0|N
+Our CEO asked me to get a few quotes for a CRM. We're 400 people. Could you send details? | E|3|0|0|I
+Sorry, wrong number. | N|0|0|0|D
+Does your platform integrate with SAP S/4HANA? We're a 3,500-person chemicals company and our IT director has a roadmap item for 2026. | E|3|0|0|I
+Hi, Mark from Stripe sales here. Would you like to use our payment processing? | N|0|0|0|D
+I need a quote for 15 licenses, PO ready. Please send invoice details. I'm the office manager and the owner approved it. | R|2|1|0|I
+Hello, I own a 6-store pharmacy chain and need inventory software soon. Budget around $10k. Can you call me? | R|2|1|1|B
+My team uses a competitor and hates it. Not sure we'd switch but I'd like to see what you offer. 110 staff, I'm a department head. | E|3|0|0|N
+Do you offer free trials? | S|1|0|0|N
+Can you refund the last two months? You charged me twice. | N|0|0|0|D
+I'm the CTO of a 55-person fintech. We're SOC 2 certified and need a vendor who is as well. Please send your report and book a call with sales. Contract by month end. | R|3|1|1|B
+I'm doing market research for my MBA, may I interview someone from your sales team? | N|0|0|0|D
+Founder of a small coffee roaster (9 staff). We want an ordering system, nothing fancy, maybe $200/month. | R|2|1|1|I
+Our CMO wants to understand what you do. We are a 1,500-person media company and just kicked off a vendor review for next year. | E|3|0|0|N
+Please provide pricing for enterprise, 10,000 seats, global deployment, signature authority sits with me as CIO. | R|2|0|1|B
+HELP my site is down!! | N|0|0|0|D
+Hello! I'm exploring options for my team of 20 recruiters. Would love a demo; our budget is flexible. I'm the recruiting lead. | R|3|1|0|B
+What's your uptime guarantee? We need 99.9% in the SLA for our 300-person company, and we're comparing three vendors. | E|3|0|0|I
+I am Ahmed, general manager of a 150-person construction firm in Dubai. Interested in your project tracking software. We plan to implement in Q1 2026 with an allocated budget of $50k. Please call me. | R|3|1|1|B
+Are you guys legit? Someone told me about you. | S|0|0|0|N
+Interested in your premium package, can you send the contract? We have 40 people and our director signed off. | R|3|1|0|B
+Quick question about your logo licensing. | N|0|0|0|D
+We run a 5-person agency, just exploring AI for fun. | S|1|0|0|N
+Head of Data at a 250-person healthcare startup. Do you support Snowflake and dbt? Exploring options, hoping to pick a vendor by year end. | E|3|0|1|I
+Looking for a demo, we're a 700-person manufacturer and our executive team wants to see ROI numbers. We have an innovation budget. | R|3|1|0|B
+Could you tell me more about pricing tiers? We're a 12-person startup, bootstrapped, no rush. | S|2|0|0|I
+Hey I'm bored, what does your company do? | S|0|0|0|N
+Our board approved a 3-year digital transformation program ($2M). I'm Chief Digital Officer. We'd like to shortlist you and ask for a formal proposal within two weeks. | R|3|1|1|B
+Do you have a Slack integration? | E|1|0|0|I
+Greetings, I represent a Chinese manufacturer. We can produce custom merchandise for you at low MOQ. | N|0|0|0|D
+We're a 90-person agency and our founder wants to move from Asana. Can we get a side-by-side comparison and a trial? | E|3|0|0|I
+Wondering whether you have a student discount. | S|0|0|0|N
+CEO, 35-person B2B software. We need to replace our CRM within 6 weeks; price is not a concern. Let's talk tomorrow. | R|3|1|1|B
+Could you recommend a good plumber? | N|0|0|0|D
+Hello. I lead data science at a 2,500-person telecom. We're running a proof of concept with two vendors in March; need a technical contact. Funding is in place. | R|3|1|1|B
+Hi, a friend recommended you. We're a 10-person real-estate team and drowning in leads. What would it cost? | R|2|0|0|I
+We would like to know what hardware is required. | S|1|0|0|N
+I'm the founder of a 70-person edtech. Our investors asked us to cut software spend by 20%. Interested in a cheaper alternative to Notion, can you share how you compare? | E|3|0|1|I
+I think my account was hacked, please lock it. | N|0|0|0|D
+We have a 4-month-out project for a 1,100-person hospital group. IT director wants a market overview of vendors including you, no decision yet. | S|3|0|1|N
+Hi, VP of Finance at a 180-person company. Please quote 3 years annual billing, we start on the 1st of next month. | R|3|1|1|B
+Our startup of 6 is pre-revenue; the CEO asked me to just see what is out there. | S|1|0|0|N
+Can I speak to someone about enterprise security? We have a CISO review next week and the deal is waiting on it. 800 staff. | R|3|1|0|B
+I run an online course with 3,000 students. Is your tool right for that? | E|1|0|1|I
+Hello team, kindly send the price list for distributors. | R|1|0|0|I
+I'd like a call with the owner about advertising on our podcast. | N|0|0|0|D
+Founder of a 20-person agency. We tried you for free last month and loved it. Ready to upgrade to the paid plan for the whole team, how do I pay? | R|3|1|1|I
+My boss told me to ask whether you integrate with Workday. We have 2,200 employees and a replacement project starts in H2. | E|3|0|0|I
+Hi! Would love to learn more, maybe set up a call in a couple of months once our fiscal year starts. VP of People at a 350-person company. | S|3|0|1|N
+Anyone there? | S|0|0|0|N
+We're a family farm, 3 people. Does this help with crop planning? | S|0|0|1|N
+Please see attached invoice for services rendered. | N|0|0|0|D
+Chief of Staff at a 400-person SaaS. Our CEO wants a vendor shortlist this week; we have $100k earmarked for this. | R|3|1|0|B
+I want to resell your product under my own brand. What's the margin? | N|1|0|1|B
+Hey, thinking about moving off Mailchimp. 5k contacts, small online shop, owner here. How much would yours be? | R|1|0|1|I
+We're launching a new product line and need analytics for 85 employees. Compare your plan with Mixpanel's and tell us about onboarding time. Decision by end of next week; I'm the head of product. | E|3|0|1|B
+Hi, I lead IT at a 60-person law firm. We've been burned by a data breach, now need a secure document platform urgently and have funds approved. Can we meet today? | R|3|1|1|B
+What programming languages does your SDK support? | E|1|0|0|I
+This is the IRS. You owe back taxes. Pay immediately via gift cards. | N|0|0|0|D
+I'm a freelance consultant who advises mid-sized firms on tooling. Interested in becoming a partner and recommending you to clients. | N|2|0|1|N
+Our team of 50 sales reps needs call recording. We evaluate this quarter, Gong vs you. Our VP Sales will decide, I'm the sales ops manager and building the comparison. | E|3|0|0|I
+Ready to sign. Send the order form for 200 seats. CFO approved. | R|3|1|1|B
+Hi, I don't think we'd ever need it, but I'm curious how it works. | S|0|0|0|N
+We are a 15-person nonprofit. No budget at all this year, but next year we might apply for a grant. What are your plans? | S|1|0|1|N
+Head of IT, 1,000-person university. We're starting the RFP process in Q3; could you be added to the vendor list and share a capabilities deck? | E|3|0|1|I
+Can you tell me the CEO's personal phone number? | N|0|0|0|D
+We run a SaaS with 30 employees and want a status page solution. Looked at Statuspage and Instatus. Need decision this month. I'm the CTO. | E|3|0|1|B
+Hi, we met at SaaStr. Following up on pricing for the enterprise plan, 500 seats. My CEO is on board and legal is drafting. | R|3|1|0|B
+Is there a student plan or a monthly option without commitment? | S|0|0|0|N
+Dear Sir/Madam, I am writing to offer you a 20% commission if you invest in my forex scheme. | N|0|0|0|D
+I'm leading a team of 8 engineers at a 100-person startup. Looking for a feature flag tool. Do you integrate with Datadog? Trial this week. | E|3|0|0|I
+Our company is in the middle of a merger, so all software purchasing is frozen until January. Just keeping an eye on options. COO. | S|3|0|1|N
+We would like to book a demo for Monday. The team is 22 people and we have budget from last quarter. I am the founder. | R|3|1|1|B
+How do I change my email address on my profile? | N|0|0|0|D
+Director of Ops at a 3-store dental chain. Looking for scheduling software, budget around $500/month, need to go live in 4 weeks. | R|2|1|1|B
+Does your tool work offline? | S|1|0|0|N
+Wanted to introduce our new AI chatbot for sales teams, can we schedule a demo for you? | N|0|0|0|D
+We're a 300-person insurance broker. Our CEO read about you and told me to find out what the price is and whether we can have a call. | R|3|0|0|B
+Researching vendors for a Q4 pilot. 15 hospitals. HIPAA, uptime, and API docs required. Head of Digital Health, budget approved up to $250k. | R|3|1|1|B
+Any plans for a mobile app? | S|1|0|0|N
+Bonjour, nous sommes une PME de 60 personnes et cherchons un outil de gestion de projet. Pouvez-vous m'envoyer vos tarifs ? Je suis le directeur. | R|3|0|1|I
+I run a 2-person dropshipping store. Can you do a free custom setup for me? | S|0|0|1|N
+Your competitor offered us 30% off. Can you beat it? 120 seats, I sign today if yes. COO. | R|3|1|1|B
+I'm interested in your enterprise tier but our budget cycle opens in January. Can you keep me posted? Director level. | S|3|0|1|N
+Quick poll: what's your favourite programming language? | N|0|0|0|D
+Hello, as per our earlier call with your AE, please send the revised proposal with the multi-year discount. CFO will sign this week, $180k. | R|3|1|1|B
+I'm a procurement officer at a 12,000-person government agency. We'd like to be informed about your FedRAMP status; no purchase planned this year. | S|2|0|0|I
+Hello! How can I integrate with Zapier? | E|1|0|0|I
+Seeking investment? We are a VC firm interested in funding companies like yours. | N|0|0|0|D
+We have a crew of 14 field technicians that need dispatching software, starting spring. I am the owner, and we budgeted 12k. Please call me. | R|2|1|1|B
+I just want to see a demo video. Is there a public one? | S|0|0|0|I
+Heard you changed pricing recently. Can you explain what's different? We're a customer on the old plan. | N|2|0|0|I
+We are a 40-person marketing agency evaluating your reporting module against AgencyAnalytics. Need white label. Founder decides; she's seen your demo and wants a quote. | R|3|0|0|I
+Please help me reset my two-factor authentication. | N|0|0|0|D
+VP of Engineering at a 1,000-person fintech. We're comparing observability vendors; want a technical call with your solutions engineer and a POC next sprint. Budget exists. | R|3|1|1|B
+I'm an indie hacker. Is there a lifetime deal? | S|0|0|1|N
+We have no idea what we need. Can someone tell us what AI could do for a 50-person accounting firm? Partner is curious but no budget yet. | S|3|0|1|N
+Greetings, do you accept cryptocurrency? I'd like to invest in your token. | N|0|0|0|D
+Hi! I'm Sam, owner of a 25-person HVAC company. Our dispatching is chaos. Tell me how fast we could be up and running and what the cost is. | R|3|0|1|B
+CTO here. Compare your vector search with Pinecone for a 10M document corpus, latency under 50ms, and tell me about pricing at that scale. | E|3|0|1|I
+Hello, I need information about your company for a due diligence. | N|1|0|0|D
+Founder of a pre-seed startup. Our runway is 4 months; we can't buy anything now but would like to stay in touch for later. | S|1|0|1|N
+Our VP of Operations at a 800-person logistics company asked me to schedule a call to discuss implementation timeline: we want to go live by Q1 and the budget is approved. | R|3|1|0|B
+Hi, can you send me the whitepaper on AI governance? | S|2|0|0|I
+Do you work with agencies in the UK? We're a 45-person agency, ready to move in the next month if the pricing works. Managing director. | R|3|0|1|B
+Could you add me to your newsletter? | S|0|0|0|N
+We need a vendor to build a custom mobile app for us. Is that something you do? Budget is $100k. | N|1|1|1|D
+Please call me about your service. | S|0|0|0|N
+Just ran a comparison between you and two competitors for our 18-person team. You're our top choice, can you get us a contract by Friday? I'm the CEO. | R|3|1|1|B
+Our CIO is skeptical about AI. Can you send some case studies so I can convince her? 600-person firm, I'm a director in IT. | E|3|0|0|I
+We're a 4-person landscaping business and our accountant says we can spend about $1,500 a year on software. Does your plan fit that? I'm the owner. | E|1|1|1|I
+Solo consultant here with a $300 monthly tools budget. Comparing you with two cheaper apps, mostly need invoicing and a client portal. | E|1|1|1|I
+Small family-run hardware store, 7 employees. Our budget for a POS upgrade is $4k. Can you do that and how fast can we switch? I'm the owner. | R|1|1|1|B
+We're a 9-person yoga studio chain looking at booking software. Budget is $200/month. Compare to Mindbody? I own the studios. | E|1|1|1|I
+Two-person podcast company, we have $50 a month to spend. Is the basic plan enough for hosting 10 shows? | E|1|1|1|I
+I run a 12-person plumbing company with a $6k annual software budget. Need dispatching and invoicing, deciding by end of month. Owner here. | R|2|1|1|B
+We are a 20-person accounting firm, budget approved at $15k for practice management software. Comparing you with Karbon and Canopy; partner decides, and I'm the office manager. | E|2|1|0|I
+Our 35-person engineering consultancy has $25k set aside for a project management tool. We are looking at you and Monday.com and want a side-by-side. I'm the operations lead. | E|2|1|0|I
+Managing a 28-person nonprofit. Grant covers $10k for case-management software. Evaluating you and Salesforce Nonprofit Cloud. I'm the executive director. | E|2|1|1|I
+Small clinic with 14 staff, we budgeted $12k for patient intake software. Please send pricing and a demo slot this week. Practice manager here, doctor approved. | R|2|1|0|B
+We are a 60-person construction company, $30k allocated, comparing three scheduling tools including yours. Need mobile support for the field. I'm the VP of operations. | E|3|1|1|B
+Our 18-person marketing agency has budget for a $9k reporting tool this year. Evaluating you vs. DashThis and Whatagraph. Founder here. | E|2|1|1|I
+We are evaluating customer-support tools. 25 agents, tight timeline, current tool Freshdesk. How does your ticket routing compare? | E|3|0|0|I
+Our 150-person SaaS is evaluating alternatives to Intercom. Can you share a migration guide and compare chat widget features? I lead support. | E|3|0|0|I
+Which of your plans supports SSO and audit logs? We are comparing vendors for a 300-person rollout. IT manager here. | E|3|0|0|I
+We use Jira but it's too heavy. Does your tool support sprints and roadmaps? 45 engineers. I'm an engineering manager comparing options. | E|3|0|0|I
+Our 220-person company is shortlisting HR platforms. How does your payroll module compare with Gusto's? I'm a senior HR business partner. | E|3|0|0|I
+We're weighing build vs buy for our analytics. 80 staff. Does your product support embedded dashboards? CTO asked me to find out. | E|3|0|0|I
+Tiny two-person shop, no employees yet. Just want to know if your free plan is really free. | S|1|0|1|N
+Retired teacher curious about your product for a hobby club of 10 people. | S|1|0|0|N
+We are a 5-person bakery. Maybe next year we will look at software, nothing planned now. | S|1|0|1|N
+I'm a freelance photographer, 1 person, thinking about whether your CRM could organize my clients. No rush. | S|1|0|1|N
+Small church office, 3 volunteers, any discount for nonprofits? We have no budget this year. | S|1|0|0|N
+A 30-person manufacturing company with a $40k budget for ERP, planning a vendor decision by Q2. Our CFO is leading it; I'm the analyst collecting RFP info. | E|2|1|0|I
+Our 16-person law practice has approved $8k for e-signature and document automation. Can you send pricing and set a demo for Friday? Partner here. | R|2|1|1|B
+Regional school with 40 teachers, the board approved $20k to adopt a learning platform. I'm the principal and we want to start in August. | R|2|1|1|B
+We're a food truck startup with 3 trucks, $2k budget for ordering software. Owner here, can you do a call this week? | R|1|1|1|B
+Mid-size 450-person retailer, $120k approved for a loyalty platform. I'm the head of e-commerce. Send pricing and book a call. | R|3|1|1|B
+We are a 70-person agency with $18k set aside for project management. We are choosing between you and Wrike this month. Director here. | E|3|1|1|B
+Our 2-year-old startup of 25 has $12k budget for a support tool. Currently on Help Scout, comparing features. Head of CX here. | E|3|1|1|I
+Looking for pricing for 5 seats. We are a 6-person design team and our budget is about $500 a month. Decision is mine. | R|2|1|1|I
+We are an architecture firm with 11 people. Considering your BIM add-on, budget is $7k. Comparing with a competitor's trial. | E|2|1|0|I
+Local gym owner. 600 members, 8 staff. Want membership software, budget maybe $250 a month. Tell me how it works and what it costs. | R|2|1|1|I
+I'm a PM at a 90-person company. Looking at tools for roadmapping: Productboard, Aha, you. Budget $20k. Can I get a feature table? | E|3|1|0|I
+Small import business, 5 employees, $3k set aside for inventory software. What does yours cost and does it connect to QuickBooks? Owner. | E|1|1|1|I
+Our 13-person physiotherapy clinic is moving off paper. Budget $9k. Can you call me tomorrow? Clinic director. | R|2|1|1|B
+Thinking about invoicing software for my 1-person consultancy. Does your tool cost less than $20/month? | E|1|0|1|I
+Our 10-person startup is comparing three analytics tools this month. We have $6k for the year. Co-founder here. | E|2|1|1|I

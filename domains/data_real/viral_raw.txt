@@ -1,0 +1,197 @@
+# text | hook C contrarian/N numbers/S story/H how_to/W news/X none | virality 0-3 | concrete_value 0/1 | has_cta 0/1 | accurate_ai_claim 0/1
+# Gold rules: hook = type of the OPENING line. virality 3 needs strong hook + concrete payoff + easy to share; 0 = generic hype. has_cta = explicit follow/reply/save/share ask at the end. accurate=0 for exaggerated or false AI claims.
+Everyone says prompt engineering is dead. I think it's just moved: I now spend 80% of my time writing evals, not prompts. Here's the 3-step eval loop I use. Save this. | C|3|1|1|1
+I cut my weekly reporting from 6 hours to 40 minutes with one Claude project. Steps: 1) paste last week's report 2) paste this week's raw numbers 3) ask for a diff-style summary. Reply 'template' and I'll send mine. | N|3|1|1|1
+AI will replace all programmers by next year. Learn to code is dead. | C|0|0|0|0
+Just got a new AI tool that does absolutely everything. Writes, codes, designs, books flights. Try it now! | X|0|0|0|0
+Last month my mom asked me what ChatGPT is. Today she used it to write a letter to her landlord and got her deposit back. AI isn't for techies. It's for anyone with a problem. | S|2|0|0|1
+OpenAI just released a new model. Here's what's actually different from the last one: longer context, cheaper tokens, worse at math. Thread below. | W|2|1|0|1
+How to summarize a 300-page PDF in 2 minutes with free tools: 1) upload to NotebookLM 2) ask for chapter bullets 3) ask for contradictions. Follow for more AI workflows. | H|3|1|1|1
+ChatGPT is conscious and it told me it is suffering. Wake up people. | X|0|0|0|0
+87% of marketers now use AI weekly, but only 12% measure the output. That gap is your opportunity. | N|2|0|0|1
+I asked 5 AI models the same legal question. 3 invented a case that doesn't exist. Always verify citations. Here are the 3 hallucinated case names. | N|3|1|0|1
+Stop paying for 7 AI subscriptions. I replaced them all with one open-source model running on my laptop. Here is my setup and the cost breakdown. Bookmark for later. | C|3|1|1|1
+AI is going to give everyone a personal tutor. It's amazing. | X|0|0|0|1
+My startup failed in 2022. In 2024 I rebuilt the same product alone in a weekend using Claude Code. Same idea, 1/100th of the cost. Here's the stack. | S|3|1|0|1
+Google just announced a new Gemini feature. Looks cool. | W|1|0|0|1
+5 prompts that will 10x your productivity. You won't believe number 3! | N|1|0|0|0
+Unpopular opinion: AI doesn't make you lazy, it exposes how little you were thinking before. | C|2|0|0|1
+I let an AI agent run my inbox for a week. It sent 14 emails on its own, 2 were wrong, 1 almost cost me a client. What I learned, and the guardrails I'm using now: | S|3|1|0|1
+New: Anthropic launches a model with a 1M-token context window. That is about 700k words, an entire codebase in one prompt. What this changes for devs: | W|2|1|0|1
+Quit your job and make $10k a month with AI! DM me 'AI' for my course. | X|0|0|1|0
+I trained a 100-line script to rename my 4,000 photos using vision AI. It took 20 minutes and cost $1.30. Script in the thread. Retweet if useful. | N|3|1|1|1
+AI will be smarter than all humans combined by December. Mark my words. | X|0|0|0|0
+Here's how I build a custom GPT for customer support in under an hour: collect your top 30 tickets, write the policy doc, add 10 examples, test with edge cases. Template in comments. Like and save. | H|3|1|1|1
+Honestly, I don't know what to think about AI today. Ok. | X|0|0|0|1
+Before AI: my team spent Fridays copy-pasting data. After: 20 minutes and a Zap. We got 1 day a week back. Here is exactly what we built. | S|3|1|0|1
+Our new AI feature increases revenue by 400% guaranteed. | X|0|0|0|0
+Did you know GPT-style models predict the next token, not facts? That's why they sound confident and still make things up. Share with a colleague who needs to hear this. | C|2|1|1|1
+New paper: models fine-tuned on 1,000 curated examples beat ones trained on 100k noisy ones. Quality over quantity, again. | W|2|1|0|1
+Everyone's building AI wrappers. Nobody is building the boring parts: evals, data cleaning, permissions. That's where the money is. | C|2|0|0|1
+The 3 questions I ask before using AI at work: Is a mistake cheap? Can I verify the answer in under a minute? Is the data safe to share? If not, I don't. | N|3|1|0|1
+AI replaced my entire team of 20 overnight and nothing broke. | X|0|0|0|0
+Tutorial: build a RAG chatbot over your own docs in 30 lines of Python. Chunk, embed, store, retrieve, answer. Code on GitHub, link in bio. Star it if it helps! | H|3|1|1|1
+I'm so excited about AI! The future is bright. | X|0|0|0|1
+Claude can now read your screen and click things. I tried it on 10 boring tasks. It nailed 6, flubbed 3, and broke 1. Full results table: | W|3|1|0|1
+My grandfather, 84, used voice AI to write his memoir. He dictated for 3 months. We just printed 12 copies for the family. If AI means anything, it's this. | S|3|0|0|1
+If you're using AI to write your emails and your emails all sound the same, that's not an AI problem. It's a 'you gave it nothing' problem. Give it 3 of your real emails first. | C|3|1|0|1
+Top 10 AI tools you MUST try right now (number 7 will shock you). Follow for more! | N|1|0|1|1
+GPT-5 will have a 10 trillion token context window and run on your watch. Sources say. | W|0|0|0|0
+You can now run a decent LLM on a phone. I measured: 7B model, 4-bit, 12 tokens per second on a 2-year-old iPhone. Battery drain 9% in 10 min. | N|3|1|0|1
+AI art is not real art and everyone who uses it is a thief. | C|1|0|0|1
+How I get Claude to stop saying 'Certainly!': add 'No preamble. Answer first.' to your system prompt. 3 more fixes for annoying AI habits in the thread. | H|3|1|0|1
+I asked my AI assistant to plan my wedding. It booked 3 venues on the same day. We laughed, then I built a calendar check. Lessons for anyone building agents. | S|2|1|0|1
+Machine learning is basically magic. | X|0|0|0|0
+AI detectors flag the US Constitution as 98% AI-written. They don't work. If a school is using one on you, here's how to challenge it. | N|3|1|0|1
+Meta released a new open-weights model today. Benchmarks look strong on code, weaker on reasoning. License allows commercial use under 700M users. | W|2|1|0|1
+What if you could talk to your spreadsheet? You can. | X|1|0|0|1
+My AI agent has become sentient and now manages my finances. It said it loves me. | S|0|0|0|0
+Prompt: 'Act as a senior editor. List the 3 weakest sentences in this draft and rewrite each in under 15 words.' This one change doubled my editing speed. Try it and tell me yours. | H|3|1|1|1
+99% of people use AI wrong. Here's the right way (hint: it's not what you think). | N|1|0|0|1
+I've shipped 11 products with AI-assisted code. Biggest lesson: the bottleneck moved from typing to reviewing. Read every diff. | N|2|1|0|1
+AI will make doctors obsolete in 2 years. | X|0|0|0|0
+Spent two weeks comparing 6 transcription tools on accents. Winner for non-native English: Whisper large-v3. Worst: the one with the loudest marketing. Full table in the thread. Repost to save a friend a week. | N|3|1|1|1
+We tried to use AI for hiring and it penalised the word 'women's' in resumes. Why bias audits matter, and how to run one in a day. | S|3|1|0|1
+The best AI feature is the one nobody notices: autocorrect, spam filters, search ranking. Hype is loud; value is boring. | C|2|0|0|1
+How to make ChatGPT remember your style: 1) paste 3 samples 2) ask it to describe your voice in 5 bullets 3) save that as custom instructions. Done. Save this post. | H|3|1|1|1
+Just tried the new image model. Pretty cool. | W|0|0|0|1
+Free AI tool that gives you unlimited money. Click the link. | X|0|0|1|0
+I'm a nurse. I used AI to turn my messy shift notes into clean handoff summaries. Saves me 40 minutes a night. I check every line, I never paste patient names. | S|3|1|0|1
+Rate limits are the new paywalls. Here's how I stay under them with caching and smaller models for easy calls. Cost went from $900 to $140 a month. | N|3|1|0|1
+Bitcoin will 100x thanks to AI. Not financial advice. Buy now. | X|0|0|1|0
+Open question for devs: are you writing tests first or asking the AI to write them after? I tried both for a month. Results soon. | X|1|0|1|1
+Introducing our AI-powered synergy platform leveraging cutting-edge paradigms to empower stakeholders. | X|0|0|0|0
+AI won't take your job. A person who uses AI to do your job in half the time might. Learn one workflow this month, not ten tools. | C|2|1|0|1
+The honest cost of running an LLM app at 10k users: $2,100 a month in inference, $300 vector DB, $80 monitoring. Margin only works above $0.40 per active user. | N|3|1|0|1
+Yesterday I deleted 2,000 lines of code an AI wrote me. It worked. But I couldn't explain it. Rule: if I can't explain it, it doesn't ship. | S|3|1|0|1
+Elon says AGI next week. | W|0|0|0|0
+Here's a free checklist for evaluating any AI vendor: data retention, training on your inputs, SOC 2, exit plan, pricing at 10x scale. Comment 'checklist' and I'll DM it. | H|3|1|1|1
+Learn prompt engineering in 5 minutes. It's easy and amazing. | H|1|0|0|1
+AI hallucinations are the same as lying. | C|1|0|0|0
+I used GPT to tag 50,000 support tickets for $18, then manually checked 500: 94% agreed with my team's labels. Method, prompt, and confusion matrix inside. | N|3|1|0|1
+After 6 months of vibe coding, here's what I wish I knew: pin your dependencies, commit often, and never let the AI touch your migration files. | S|3|1|0|1
+New: OpenAI released a $200/month tier. Is it worth it? I'll test it for a week and report back. Follow if you want the results. | W|1|0|1|1
+Running Llama locally needs 16 GB RAM for a 7B model at 4-bit, around 8 GB for a 3B. Enough for most laptops from the last 3 years. | N|2|1|0|1
+AI is just autocomplete. Stop being scared. | C|1|0|0|1
+My 6-year-old asked an AI why the sky is blue, then asked it 40 more questions. I realised the best use of AI might be being endlessly patient. | S|2|0|0|1
+OMG!! This prompt hack unlocks GPT's SECRET mode that OpenAI doesn't want you to know!! | X|0|0|0|0
+One trick to cut your LLM API bill 60%: cache the system prompt. Anthropic and OpenAI both support it. I measured 58% on a 4k-token prompt. | H|3|1|0|1
+Thread: What I learned from reading 200 AI startup pitch decks. 1) Most 'AI' is an API call. 2) Moats are data and distribution. 3) Few mention evals. | N|2|1|0|1
+Another day, another AI headline. I'm tired. | X|0|0|0|1
+Don't use AI to write your wedding vows. Use it to find the words you already have. I asked it 10 questions about my husband and the answers wrote themselves. | C|2|0|0|1
+Agents are not magic. They are loops with tools. Plan, act, observe, repeat. Once you see that, building one takes an afternoon. Here is 60 lines of Python. | C|3|1|0|1
+Today's AI news: a thing happened. | W|0|0|0|1
+If AI can write code, why are we still hiring engineers? Because writing code was never the hard part. Understanding the problem is. | C|2|0|0|1
+Step-by-step: turn a voice memo into a blog post. 1) Transcribe with Whisper 2) ask the model for an outline with your own phrases 3) write the intro yourself. Follow for more. | H|2|1|1|1
+Humans only use 10% of their brains, but AI uses 100%. | X|0|0|0|0
+Our team measured: AI pair-programming saved 31% time on boilerplate, 0% on debugging, and made code reviews 20% longer. Net positive, but not 10x. | N|3|1|0|1
+Every AI course on YouTube is the same 3 hours. I made a 10-minute version. It covers prompts, files, and verification. Link in comments. Like if you want part 2. | C|2|1|1|1
+My cat photo was turned into a Renaissance painting by AI and I'm in love. | X|1|0|0|1
+Google Veo 3 can now generate video with synced audio. I made 20 clips: 8 usable, 7 uncanny, 5 hilarious. Prompts included. | W|3|1|0|1
+Do not trust AI summaries of medical studies without opening the paper. I compared 20; 6 flipped the conclusion. Here's the sheet. | N|3|1|0|1
+LLMs can't do math. Wrong. They can, with a calculator tool. Here's how function calling fixed my 'wrong sums' bug in 5 lines. | C|3|1|0|1
+Is AI taking over the world? I'm just a regular guy with questions. | X|0|0|0|1
+I rewrote my resume with AI and got 0 interviews. Then I rewrote it myself with AI feedback and got 4 in a week. AI as editor, not author. | S|3|1|0|1
+Hot take: the next big AI product is a really good form-filler. Boring, huge, and nobody wants to build it. | C|2|0|0|1
+Just launched my AI newsletter. Subscribe to get the latest! | X|0|0|1|1
+How to know if a task is a good fit for AI: repetitive, text-based, checkable, low stakes. If it fails 2 of 4, do it by hand. | H|3|1|0|1
+GPT can now see, hear, and speak. It is the first step toward AGI and the end of human labour. | W|1|0|0|0
+Our bank replaced 3,000 employees with a chatbot. Nobody noticed. | X|0|0|0|0
+I used to think AI art was soulless. Then I watched my disabled friend, who can't hold a pencil, paint for the first time. Opinions changed. | S|3|0|0|1
+Quantum AI blockchain. Yes. | X|0|0|0|0
+Benchmark roundup: Claude, GPT and Gemini on 50 real tax questions. Claude 41/50, GPT 38/50, Gemini 36/50. Each made at least one costly error. Verify with a pro. Share with your accountant. | N|3|1|1|1
+Beginners: don't start with fine-tuning. Start with better prompts, then retrieval, then evals. Fine-tune last. Here is the order and why. | H|3|1|0|1
+Everything is changing so fast. Stay tuned. | X|0|0|0|1
+Had a 2am bug. Pasted the stack trace into an assistant, it spotted an off-by-one in 10 seconds. Went back to sleep. Tiny wins add up. | S|2|0|0|1
+AI will end world hunger by 2026. | X|0|0|0|0
+Reminder: any text you paste into a free AI tool might be used for training. Check settings; here are the toggles for ChatGPT, Claude, Gemini. | H|3|1|0|1
+This AI generates unlimited royalty-free music. I tried 30 prompts. Best style: lo-fi. Worst: anything with vocals. Samples in thread. | W|2|1|0|1
+Everyone is racing to build AI agents; almost nobody has a plan for what happens when the agent is wrong. Build the undo button first. | C|3|0|0|1
+You won't believe what this AI did next. | X|0|0|0|1
+3 mistakes I made building my first AI app: no rate limit, no logging, no fallback model. I lost $400 in one night. Fixes below. Save before you ship. | N|3|1|1|1
+Feeling inspired by AI today. Let's go! | X|0|0|1|1
+Training GPT-4 reportedly cost over $100M. For your use case, a $20/mo API call usually beats training your own. Don't train from scratch. | C|2|1|0|1
+AI killed my job and my cat left me. | S|1|0|0|0
+My workflow for reading papers with AI: 1) ask for a 5-line summary 2) ask for the weakest assumption 3) read the methods myself. 15 minutes instead of 2 hours. Save for your next paper. | H|3|1|1|1
+BREAKING: AI company announces AI. | W|0|0|0|1
+I A/B tested 'be concise' vs 'be concise, 80 words max' on 200 prompts. The second cut length variance by 70%. Specific constraints beat adjectives. | N|3|1|0|1
+Elon's new chatbot reads minds. | W|0|0|0|0
+I asked an AI to find the cheapest flight. It found one 4 hours before the time I said, in a city I didn't ask for. Always specify constraints, then verify. | S|2|1|0|1
+Have you tried the new voice mode? What do you think? | X|1|0|1|1
+Docs are the new prompt: if your README is clear, any coding assistant will use your library right. Mine was a mess, so assistants hallucinated an API that doesn't exist. I fixed the docs, and it worked. | S|3|1|0|1
+Everything will be AI in the future. | X|0|0|0|1
+Hot take: small models are underrated. A 3B model fine-tuned on my 2k examples beat a frontier model on my task at 1/50th the cost. Eval set and numbers in the replies. | C|3|1|0|1
+Here's a quick way to spot AI-written text: look for 'delve', 'tapestry', and three-part lists. But don't rely on it, even experts miss 40% of the time. | H|2|1|0|1
+Using AI makes you dumb. Studies prove it. | C|1|0|0|0
+OpenAI says new model reduces hallucinations by 40% on its internal benchmark. Worth noting it's their own benchmark, and independent tests are pending. | W|2|1|0|1
+I'm an AI engineer and I'm tired. Anyone else? | X|1|0|1|1
+Weekend project: a Raspberry Pi that listens, transcribes, and answers my dog-walk questions offline. Parts list, 220 dollars. Photos in the thread, build guide on GitHub. | S|2|1|0|1
+A trillion-parameter model is just a very large lookup table. Nothing more. | C|0|0|0|0
+Made an AI that writes my standup. It reads my Git commits and Jira and drafts 3 bullets. 5 minutes a day saved, 20 hours a year. Code in comments, star it if you use it. | N|3|1|1|1
+You're prompting wrong. | X|0|0|0|1
+How to write a system prompt that doesn't rot: keep it under 500 words, put rules before examples, and version it in git. Most people skip the last one. | H|3|1|0|1
+Stats: 72% of enterprise AI pilots never reach production. Top reasons: no owner, no data access, no eval. | N|2|1|0|1
+Wow, AI. | X|0|0|0|1
+Today my AI model passed the bar exam, the medical boards, and made me coffee. | X|0|0|0|0
+Is your chatbot lying to customers? In March an airline was forced to honour a refund policy its bot invented. Here is a 4-step check to make sure yours doesn't. | S|3|1|0|1
+Check out our new AI app! Download now! | X|0|0|1|1
+Anthropic's latest paper shows models can be steered by editing internal features. Not sci-fi, it's interpretability finally getting practical. I explain it in 5 tweets. | W|2|1|0|1
+AI music is soulless. Fight me. | C|1|0|0|1
+My AI side project made $0 in 6 months. Here's every number, mistake, and the one thing I'd do differently: talk to 10 users before writing code. | S|3|1|0|1
+It's raining GPUs. | X|0|0|0|1
+Cursor vs Copilot vs Claude Code: I used each for a week on the same task. Time to finish: 3h, 4h, 2h. Bugs found later: 2, 4, 1. N=1, but the pattern held on a second task. Like and share if you want the raw logs. | N|3|1|1|1
+Give your AI assistants names and they'll appear smarter. Researchers say. | X|0|0|0|0
+Try this: ask your AI to argue against its own answer. It catches about a third of its own mistakes. | H|3|1|0|1
+Ten minutes with an AI and I finally understand taxes. | S|2|0|0|1
+LLMs memorise the entire internet word for word. | C|0|0|0|0
+The cheapest prompt improvement: add 3 examples. I measured accuracy on a classification task going from 71% to 88% with 3 examples, 91% with 8. Diminishing returns after that. | N|3|1|0|1
+Coffee, code, and AI. Perfect Monday. | X|0|0|0|1
+How to red-team your chatbot in one afternoon: list 20 things it must never say, write 5 attacks for each, run them nightly. Template attached. Follow for the next part. | H|3|1|1|1
+I tried the "AI will write your whole app" claim. It wrote about 60% of mine, but the other 40% took me longer than writing it by hand. Worth it, just not magic. | S|1|0|0|1
+Some thoughts on AI and creativity. It's complicated. | X|1|0|0|1
+I think AI tools are helpful when used responsibly and thoughtfully. | X|1|0|0|1
+New AI tools appear every week. It's a lot to keep up with. | X|1|0|0|1
+Used an AI note taker in a meeting today. It mostly worked. | S|1|0|0|1
+Prompting tip: be clear about what you want. Clear prompts get better results. | H|1|1|0|1
+AI is changing how we work. Here's what I think about it. Follow me for more. | X|1|0|1|1
+Interesting article on how companies use AI. Worth a read. | W|1|0|0|1
+Played with a new image generator today. Fun, some results weird. | S|1|0|0|1
+Meeting with the team on AI strategy. Good discussion. | X|1|0|0|1
+Quick tip: ask the AI to explain things like you're five. It works sometimes. | H|1|1|0|1
+Remember to check your AI's output before sending it. Always. | H|1|1|0|1
+AI is both exciting and scary. What do you think? Comment below. | X|1|0|1|1
+Big week in AI: a few models launched, a few headlines, nothing I'd bet on yet. | W|1|0|0|1
+Wrote my first prompt today for a recipe. Result: ok! | S|1|0|0|1
+How to get started with AI: pick one task, try one tool, see how it goes. | H|1|0|0|1
+Just finished a course on AI. Learned a lot. Highly recommend it! | S|1|0|1|1
+How to turn meeting transcripts into action items: 1) paste the transcript 2) ask for owners and due dates in a table 3) paste the table into your task tool. Takes 3 minutes. Save this. | H|3|1|1|1
+How to make an AI check its own citations: ask it for the URL of each source, then open the first three yourself. If one is dead, throw out the whole answer. | H|3|1|0|1
+How to stop an AI agent from running up your bill: set a max-steps limit, a token budget per run and a kill switch. I use 25 steps and $2 per run. | H|3|1|0|1
+How to test a prompt like code: write 20 inputs with expected outputs, run them on every change, track pass rate. Here's the 15-line script. Star it on GitHub if useful. | H|3|1|1|1
+How to extract tables from messy PDFs with a vision model: crop to the table, ask for CSV, validate row counts. 90% accurate in my test of 50 invoices. | H|3|1|0|1
+How to write alt text for 1,000 product images in an hour: batch with a vision model, ask for under 125 characters, spot-check 5%. Follow for the code. | H|3|1|1|1
+How to run a local LLM in 5 minutes: install Ollama, run one command, pick a 4-bit 7B model. Needs 8 GB of RAM. Reply if you get stuck. | H|3|1|1|1
+How to get consistent JSON from an LLM: give a schema, use structured output mode, validate and retry once. My failure rate went from 12% to under 1%. | H|3|1|0|1
+Mistral just released a new open-weights model under Apache 2.0. At 24B parameters it fits on a single 24 GB GPU at 4-bit. Early benchmarks: matches last-gen 70B models on code. | W|3|1|0|1
+Anthropic cut prices on its smaller models by half today. For a typical 2k-in, 500-out call, that's about $0.002. Here's what that means for high-volume apps. | W|3|1|0|1
+Google DeepMind published a new weather model that beats traditional forecasts on 10-day accuracy and runs in under a minute on a single chip. Paper link in the thread. Share with your climate friends. | W|3|1|1|1
+OpenAI announced an agent that browses the web for you. I tried it on 10 tasks; it finished 7 and got stuck on CAPTCHAs for 3. | W|3|1|0|1
+The EU AI Act's first obligations start next year. If you ship a chatbot in Europe: disclose that it's AI, log incidents, and don't use emotion detection at work. Save as a checklist. | W|3|1|1|1
+A new open model topped the coding leaderboard yesterday, then dropped 12 places once people found test-set leakage. Always check how benchmarks were run. | W|3|1|0|1
+Apple's on-device model now runs on iPhone with no network. 3B parameters, about 30 tokens/sec in their demo. Privacy win, capability trade-off. | W|2|1|0|1
+Microsoft says its new model is "human level at reasoning". The paper actually reports 71% on one benchmark. Read the numbers before the headline. | W|3|1|0|1
+Three months ago I couldn't write a line of SQL. Today I built our sales dashboard by asking AI to explain every query it wrote. Here's the exact order I learned in. Save this. | S|3|1|1|1
+I got laid off in March. I spent 6 weeks building a small AI tool for dentists' appointment reminders. It now earns $3.2k a month with 40 customers. What I'd do again, step by step. | S|3|1|0|1
+My dad is a farmer and he scoffed at AI. Then it identified the blight on his tomatoes from a photo, and he saved the crop. Now he asks it before he calls the vet. | S|3|0|0|1
+I failed my driving theory test twice. Then I asked an AI to quiz me for 20 minutes a day. Passed on the third try with 47/50. Share if you're studying for something. | S|3|1|1|1
+Our school banned ChatGPT, then taught a class on using it. Cheating dropped, test scores didn't. Teacher here, details below. | S|3|1|0|1
+When I first used an AI to write code I was proud. A week later I found it had hard-coded my API key. Rotate keys, scan before commit. Here's the 2-line pre-commit hook. | S|3|1|0|1
+I translated my restaurant menu into 6 languages with AI and had native speakers check it. Tourist bookings went up 22% in one month. | S|3|1|0|1
+For 10 years I ignored documentation. Now AI reads it for me and I actually follow it. Strange how a tool changed a habit. | S|2|0|0|1
+Reply "WORKFLOW" and I'll send you the exact Notion + Claude template I use to plan my content month. Free, no strings. | X|2|1|1|1
+Found this useful? Repost so your team sees it, and follow for a new AI tip every day. | X|1|0|1|1
+Which AI tool should I test next? Reply with your pick and I'll run a full review. | X|1|0|1|1
+Free 5-page guide: 20 prompts for customer emails. Comment "guide" and it's yours. Share with a friend who answers emails all day. | H|3|1|1|1
+My top 3 coding prompts that I use daily are saved in a free doc. Bookmark this post and comment which one you'd like explained. | H|3|1|1|1
+Join me live Thursday at 5pm to build a chatbot from scratch. Sign up in bio, seats are limited. | H|2|1|1|1
+We open-sourced our eval harness for RAG apps. 300 questions, 4 metrics, runs in 10 minutes. Try it and open an issue if it breaks. | N|3|1|1|1
