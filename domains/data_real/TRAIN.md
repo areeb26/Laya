@@ -21,7 +21,7 @@ a few points of noise; `fit`, `hook_type`, `virality` are subjective).
 ## 1. Setup
 
 ```bash
-git checkout claude/laya-leads-viral && git pull
+git checkout claude/gold-dataset-training && git pull
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -e .          # NVIDIA: install the CUDA torch build from pytorch.org first
 python -c "import torch;print(torch.cuda.is_available())"
